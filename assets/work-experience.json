@@ -1,0 +1,38 @@
+{
+  "trabajos": [
+    {
+      "id": 1,
+      "puesto": "FrontEnd Developer",
+      "empresa": "Freelance",
+      "fecha_ini": "06/2019",
+      "fecha_fin": "10/2020",
+      "ciudad": "Nogales",
+      "pais": "Mexico",
+      "logros": [
+        {
+          "logro": "Desarrollo de un sitio web dinamico"
+        },
+        {
+          "logro": "Consumo de api usando fetch"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "puesto": "Gestor de base de datos",
+      "empresa": "Code-Sale",
+      "fecha_ini": "01/2022",
+      "fecha_fin": "01/2023",
+      "ciudad": "Ixtaczoquitlan",
+      "pais": "Mexico",
+      "logros": [
+        {
+          "logro": "Desarrollo de un punto de venta"
+        },
+        {
+          "logro": "Creacion de base de datos en la nube usando Railway"
+        }
+      ]
+    }
+  ]
+}
