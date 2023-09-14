@@ -1,0 +1,60 @@
+{
+    "skills": [
+      {
+        "id": 1,
+        "skillName": "Desarrollo FrontEnd",
+        "description": "Especialista en desarrollo de interfaces de usuario y sitios web dinámicos.",
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript"
+        ],
+        "projects": [
+          {
+            "project": "Sitio web dinámico"
+          },
+          {
+            "project": "Consumo de API usando fetch"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "skillName": "Desarrollo BackEnd",
+        "description": "Experto en diseño y desarrollo de aplicaciones server-side y gestión de bases de datos.",
+        "technologies": [
+          "Node.js",
+          "Express",
+          "SQL",
+          "PostgreSQL"
+        ],
+        "projects": [
+          {
+            "project": "API RESTful para un servicio de eCommerce"
+          },
+          {
+            "project": "Autenticación de usuarios con JWT"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "skillName": "Administración de GNU/Linux",
+        "description": "Habilidad avanzada en el manejo, configuración y administración de sistemas GNU/Linux.",
+        "technologies": [
+          "Bash",
+          "Shell Scripting",
+          "System Administration"
+        ],
+        "projects": [
+          {
+            "project": "Configuración de servidor LAMP"
+          },
+          {
+            "project": "Automatización de tareas con scripts de Bash"
+          }
+        ]
+      }
+    ]
+  }
+  
