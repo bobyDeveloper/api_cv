@@ -1,0 +1,23 @@
+{
+    "certifications": [
+      {
+        "id": 1,
+        "title": "Certified JavaScript Developer",
+        "issuer": "Programming Institute",
+        "date": "01/2022"
+      },
+      {
+        "id": 2,
+        "title": "Full-Stack Web Developer Nanodegree",
+        "issuer": "Tech University Online",
+        "date": "06/2021"
+      },
+      {
+        "id": 3,
+        "title": "Cloud Architect Certification",
+        "issuer": "CloudTech Academy",
+        "date": "12/2021"
+      }
+    ]
+  }
+  
