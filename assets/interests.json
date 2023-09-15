@@ -1,0 +1,36 @@
+{
+    "interests": [
+      {
+        "id": 1,
+        "topic": "IA"
+      },
+      {
+        "id": 2,
+        "topic": "Video Games"
+      },
+      {
+        "id": 3,
+        "topic": "Music"
+      },
+      {
+        "id": 4,
+        "topic": "Data Science"
+      },
+      {
+        "id": 5,
+        "topic": "GNU/Linux"
+      },
+      {
+        "id": 6,
+        "topic": "Blockchain Technology"
+      },
+      {
+        "id": 7,
+        "topic": "Augmented Reality"
+      },
+      {
+        "id": 8,
+        "topic": "Quantum Computing"
+      }
+    ]
+}
